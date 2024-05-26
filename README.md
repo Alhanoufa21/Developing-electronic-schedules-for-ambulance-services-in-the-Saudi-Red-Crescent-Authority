@@ -35,3 +35,15 @@ The project was developed using the waterfall methodology, which involves a sequ
 Here are some screenshots of the application in action:
 
 ![image](https://github.com/Alhanoufa21/Developing-electronic-schedules-for-ambulance-services-in-the-Saudi-Red-Crescent-Authority/assets/117589529/8530dd6c-2fd5-4071-9039-c451fc0c50f7)
+
+
+## Challenges
+- **Efficient Request Handling**: Ensuring that the request submission and approval process is smooth and efficient.
+- **Real-Time Updates**: Providing real-time updates to managers and employees.
+
+## Learning Outcomes
+This project provided hands-on experience in:
+- Developing mobile applications using systematic methodologies.
+- Designing user interfaces with Adobe XD.
+- Managing project workflows and team collaboration.
+- Solving practical problems related to attendance and request management.
